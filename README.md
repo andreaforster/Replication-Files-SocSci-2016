@@ -6,7 +6,7 @@ Andrea Forster and Thijs Bol, January 2016
 In this replication set you can find the code and (parts of) the data that were used to perform 
 the analyses in the article Forster, Andrea G., Thijs Bol, and Herman G. Van de Werfhorst (2016). 
 Vocational Education and Employment over the Life Cycle. Sociological Science 3: 473-494. 
-If you have any questions, please send an e-mail to a.g.forster@uva.nl or t.bol@uva.nl. 
+If you have any questions, please send an e-mail to email@andrea-forster.com or t.bol@uva.nl. 
 
 
 ## Data
